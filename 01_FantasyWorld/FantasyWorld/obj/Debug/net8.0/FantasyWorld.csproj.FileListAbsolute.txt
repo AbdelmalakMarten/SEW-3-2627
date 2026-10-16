@@ -1,0 +1,28 @@
+C:\Users\chris\Downloads\01_FantasyWorld\01_FantasyWorld\FantasyWorld\bin\Debug\net8.0\FantasyWorld.exe
+C:\Users\chris\Downloads\01_FantasyWorld\01_FantasyWorld\FantasyWorld\bin\Debug\net8.0\FantasyWorld.deps.json
+C:\Users\chris\Downloads\01_FantasyWorld\01_FantasyWorld\FantasyWorld\bin\Debug\net8.0\FantasyWorld.runtimeconfig.json
+C:\Users\chris\Downloads\01_FantasyWorld\01_FantasyWorld\FantasyWorld\bin\Debug\net8.0\FantasyWorld.dll
+C:\Users\chris\Downloads\01_FantasyWorld\01_FantasyWorld\FantasyWorld\bin\Debug\net8.0\FantasyWorld.pdb
+C:\Users\chris\Downloads\01_FantasyWorld\01_FantasyWorld\FantasyWorld\obj\Debug\net8.0\FantasyWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Downloads\01_FantasyWorld\01_FantasyWorld\FantasyWorld\obj\Debug\net8.0\FantasyWorld.AssemblyInfoInputs.cache
+C:\Users\chris\Downloads\01_FantasyWorld\01_FantasyWorld\FantasyWorld\obj\Debug\net8.0\FantasyWorld.AssemblyInfo.cs
+C:\Users\chris\Downloads\01_FantasyWorld\01_FantasyWorld\FantasyWorld\obj\Debug\net8.0\FantasyWorld.csproj.CoreCompileInputs.cache
+C:\Users\chris\Downloads\01_FantasyWorld\01_FantasyWorld\FantasyWorld\obj\Debug\net8.0\FantasyWorld.dll
+C:\Users\chris\Downloads\01_FantasyWorld\01_FantasyWorld\FantasyWorld\obj\Debug\net8.0\refint\FantasyWorld.dll
+C:\Users\chris\Downloads\01_FantasyWorld\01_FantasyWorld\FantasyWorld\obj\Debug\net8.0\FantasyWorld.pdb
+C:\Users\chris\Downloads\01_FantasyWorld\01_FantasyWorld\FantasyWorld\obj\Debug\net8.0\FantasyWorld.genruntimeconfig.cache
+C:\Users\chris\Downloads\01_FantasyWorld\01_FantasyWorld\FantasyWorld\obj\Debug\net8.0\ref\FantasyWorld.dll
+C:\Users\chris\OneDrive - HTBLuVA Waidhofen Ybbs\Schule\3AHIT\SEW\Interfaces\01_FantasyWorld\FantasyWorld\obj\Debug\net8.0\FantasyWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive - HTBLuVA Waidhofen Ybbs\Schule\3AHIT\SEW\Interfaces\01_FantasyWorld\FantasyWorld\obj\Debug\net8.0\FantasyWorld.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive - HTBLuVA Waidhofen Ybbs\Schule\3AHIT\SEW\Interfaces\01_FantasyWorld\FantasyWorld\obj\Debug\net8.0\FantasyWorld.AssemblyInfo.cs
+C:\Users\chris\OneDrive - HTBLuVA Waidhofen Ybbs\Schule\3AHIT\SEW\Interfaces\01_FantasyWorld\FantasyWorld\obj\Debug\net8.0\FantasyWorld.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive - HTBLuVA Waidhofen Ybbs\Schule\3AHIT\SEW\Interfaces\01_FantasyWorld\FantasyWorld\obj\Debug\net8.0\FantasyWorld.dll
+C:\Users\chris\OneDrive - HTBLuVA Waidhofen Ybbs\Schule\3AHIT\SEW\Interfaces\01_FantasyWorld\FantasyWorld\obj\Debug\net8.0\refint\FantasyWorld.dll
+C:\Users\chris\OneDrive - HTBLuVA Waidhofen Ybbs\Schule\3AHIT\SEW\Interfaces\01_FantasyWorld\FantasyWorld\obj\Debug\net8.0\FantasyWorld.pdb
+C:\Users\chris\OneDrive - HTBLuVA Waidhofen Ybbs\Schule\3AHIT\SEW\Interfaces\01_FantasyWorld\FantasyWorld\bin\Debug\net8.0\FantasyWorld.exe
+C:\Users\chris\OneDrive - HTBLuVA Waidhofen Ybbs\Schule\3AHIT\SEW\Interfaces\01_FantasyWorld\FantasyWorld\bin\Debug\net8.0\FantasyWorld.deps.json
+C:\Users\chris\OneDrive - HTBLuVA Waidhofen Ybbs\Schule\3AHIT\SEW\Interfaces\01_FantasyWorld\FantasyWorld\bin\Debug\net8.0\FantasyWorld.runtimeconfig.json
+C:\Users\chris\OneDrive - HTBLuVA Waidhofen Ybbs\Schule\3AHIT\SEW\Interfaces\01_FantasyWorld\FantasyWorld\bin\Debug\net8.0\FantasyWorld.dll
+C:\Users\chris\OneDrive - HTBLuVA Waidhofen Ybbs\Schule\3AHIT\SEW\Interfaces\01_FantasyWorld\FantasyWorld\bin\Debug\net8.0\FantasyWorld.pdb
+C:\Users\chris\OneDrive - HTBLuVA Waidhofen Ybbs\Schule\3AHIT\SEW\Interfaces\01_FantasyWorld\FantasyWorld\obj\Debug\net8.0\FantasyWorld.genruntimeconfig.cache
+C:\Users\chris\OneDrive - HTBLuVA Waidhofen Ybbs\Schule\3AHIT\SEW\Interfaces\01_FantasyWorld\FantasyWorld\obj\Debug\net8.0\ref\FantasyWorld.dll
