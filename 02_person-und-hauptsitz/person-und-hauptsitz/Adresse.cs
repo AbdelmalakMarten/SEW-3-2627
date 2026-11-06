@@ -39,10 +39,12 @@ namespace person_und_hauptsitz
                     Land = land;
                 }
             }
+
             catch (Exception ex)
             {
                 Console.WriteLine("Fehler bei der Adresse: " + ex.Message);
             }
+
         }
 
         public override string ToString()
