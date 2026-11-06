@@ -19,8 +19,7 @@ namespace person_und_hauptsitz
         {
             try
             {
-                if (strasse == "" || hausnummer == "" ||
-                    ort == "" || bundesland == "" || land == "")
+                if (strasse == "" || hausnummer == "" || ort == "" || bundesland == "" || land == "")
                 {
                     Console.WriteLine("Texte dürfen nicht leer sein!");
                 }
