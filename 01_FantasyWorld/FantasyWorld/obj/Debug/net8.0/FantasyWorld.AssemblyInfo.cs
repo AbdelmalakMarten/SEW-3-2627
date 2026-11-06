@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FantasyWorld")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0183cdb8e7a251edd826b92c1b6b8a3cd5e7e5a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("FantasyWorld")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FantasyWorld")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
