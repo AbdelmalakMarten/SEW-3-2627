@@ -28,8 +28,10 @@ namespace person_und_hauptsitz
                     Console.WriteLine("Ungültige PLZ!");
                 }
                 else
+
                 {
                     Strasse = strasse;
+
                     Hausnummer = hausnummer;
                     Plz = plz;
                     Ort = ort;
