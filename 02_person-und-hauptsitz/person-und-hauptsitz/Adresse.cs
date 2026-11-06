@@ -28,8 +28,10 @@ namespace person_und_hauptsitz
                     Console.WriteLine("Ungültige PLZ!");
                 }
                 else
+
                 {
                     Strasse = strasse;
+
                     Hausnummer = hausnummer;
                     Plz = plz;
                     Ort = ort;
@@ -37,10 +39,12 @@ namespace person_und_hauptsitz
                     Land = land;
                 }
             }
+
             catch (Exception ex)
             {
                 Console.WriteLine("Fehler bei der Adresse: " + ex.Message);
             }
+
         }
 
         public override string ToString()
